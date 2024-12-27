@@ -23,7 +23,36 @@ main > p {
 
 main > h1 {
   text-align: center;
+  font-size: 6.5em;
+}
+
+main > h2 {
+  text-align: center;
+  font-size: 5.5em;
+}
+
+
+main > h3 {
+  text-align: center;
+  font-size: 4.5em;
+}
+
+
+main > h4 {
+  text-align: center;
   font-size: 3.5em;
+}
+
+
+main > h5 {
+  text-align: center;
+  font-size: 2.5em;
+}
+
+
+main > h6 {
+  text-align: center;
+  font-size: 2.0em;
 }
 
 main > ul, ol, li {
@@ -41,3 +70,5 @@ a {
 a:visited {
   color: #dadadaa1;
 }
+
+
