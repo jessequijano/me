@@ -61,12 +61,10 @@ main > ul, ol, li {
   margin-bottom: 10px;
 }
 
-/* Set unclicked links to green */
 a {
   color: green;
 }
 
-/* Set clicked links to match the same color as defined on line 10 */
 a:visited {
   color: #dadadaa1;
 }
